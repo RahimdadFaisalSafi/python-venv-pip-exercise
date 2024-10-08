@@ -23,5 +23,8 @@ plt.ylabel('Wert')
 # Legende anzeigen
 plt.legend()
 
+# Diagramm speichern
+plt.savefig('quad_kub.png')
+
 # Diagramm anzeigen
 plt.show()
